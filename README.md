@@ -1,4 +1,4 @@
-# additional_test_task
+# additional_test_task (MS SQL)
 
 Есть таблица 
  
